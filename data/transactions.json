@@ -1,16 +1,9 @@
-[
-    {
+{
+    "2": {
         "customerName": "Mustakim",
-        "productName": "Samsung Galaxy A14 5G",
-        "quantity": 1,
-        "price": 2825000,
-        "total": 2825000
-    },
-    {
-        "customerName": "Mustakim",
-        "productName": "Samsung Galaxy A04",
+        "productName": "Adaptor TP-Link 5V",
         "quantity": 2,
-        "price": 1563000,
-        "total": 3126000
+        "price": 15000,
+        "total": 30000
     }
-]
+}
